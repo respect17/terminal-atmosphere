@@ -146,7 +146,7 @@ To test Terminal Atmosphere:
 
 1. **Installation**:
    ```bash
-   git clone https://github.com/[your-username]/terminal-atmosphere.git
+   git clone https://github.com/respect17/terminal-atmosphere.git
    cd terminal-atmosphere
    npm install
    ```
@@ -196,7 +196,7 @@ The combination of innovative weather metaphor, AI-powered intelligence, and bea
 
 ## 🔗 Links
 
-- **GitHub Repository**: https://github.com/[your-username]/terminal-atmosphere
+- **GitHub Repository**: https://github.com/respect17/terminal-atmosphere
 - **Live Demo**: Run `./demo.sh` after installation
 - **Documentation**: See README.md in repository
 - **Challenge Submission**: SUBMISSION.md in repository
